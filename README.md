@@ -1,4 +1,4 @@
-# drop-dynamics, moving-camera-video, template-matching, normalized-cross-correlation
+# drop-dynamics, moving-camera video, template-matching, normalized cross-correlation
 A MATLAB code which reads numbers in a video, references, and calculates drop dynamics' characteristics 
 
 Brief summary: The MATLAB code reads a number in a video frame using template matching (normalized cross-correlation algorithm). 
