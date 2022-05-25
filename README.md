@@ -21,3 +21,5 @@ https://user-images.githubusercontent.com/39770999/145340386-72f88d85-1afa-45b1-
 
 
 
+## Citation: 
+Shadab, M.A., Divoux, T. and Bischofberger, I., 2018. Drop-dynamics, Zenodo DOI: 10.5281/zenodo.6581760
